@@ -1,1 +1,10 @@
 PSID: 1640388
+
+1. The objective of this project is to rasterize two half circles of size 100 and 150. 
+2. Linux\ OS X & Windows C++
+3. Using the midpoint forumla to rasterize two half circles and compling using Linux, 
+creating a circle.ppm file with two circles. The c++ file is to be named hw1.cpp, integers to be used and not doubles.
+4. Two half circles of size 100 and 150
+5. References: Computer Graphics Principles and Practice - Foley
+et. al” section 3.2 “Scan Converting Lines” and section 3.3 “Scan Converting
+Circles"
